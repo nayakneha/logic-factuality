@@ -31,7 +31,8 @@ def main():
       mention_count = sum(
           1 for match in re.finditer(r"\b" + entity_name + r"\b", text))
       if mention_count:
-        counts[(author, entity_name)] = mention_count
+        counts[(row["Party"] + "_" + author,
+          entity_row["Party"] + "_" + entity_name)] = mention_count
 
 
     with open("output.txt" ,'w') as f:
