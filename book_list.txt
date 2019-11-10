@@ -1,0 +1,195 @@
+L-Alexander, A.F_Religious Right.txt	L	Alexander, A.F	A.F.	Alexander	A.F. Alexander
+L-Alterman, Eric-Why We're Liberals.txt	L	Alterman, Eric	Eric	Alterman	Eric Alterman
+L-Aschoff, Nicole_The New Prophets of Capital.txt	L	Aschoff, Nicole	Nicole	Aschoff	Nicole Aschoff
+L-Baker, Dean-The End of Loser Liberalism.txt	L	Baker, Dean	Dean	Baker	Dean Baker
+L-Barber II, William J_Forward Together.txt	L	Barber II, William J	William J	Barber II	William J Barber II
+L-Barlett, Donald L-Betrayal of the American Dream.txt	L	Barlett, Donald L	Donald L	Bartlett	Donald L Bartlett
+L-Boggs, Grace Lee_The Next American Revolution.txt	L	Boggs, Grace Lee	Grace Lee	Boggs	Grace Lee Boggs
+L-Booker, Cory_United.txt	L	Booker, Cory	Cory	Booker	Cory Booker
+L-Bradley, Bill-We Can All Do Better.txt	L	Bradley, Bill	Bill	Bradley	Bill Bradley
+L-Buehrens, John- House for Hope.txt	L	Buehrens, John	John	Buehrens	John Buehrens
+L-Carter, Jimmy-Our Endangered Values.txt	L	Carter, Jimmy	Jimmy	Carter	Jimmy Carter
+L-Carville, James-It's the Middle Class, Stupid.txt	L	Carville, James	James	Carville	James Carville
+L-Chait, Jonathan-The Big Con.txt	L	Chait, Jonathan	Jonathan	Chait	Jonathan Chait
+L-Chomsky, Noam_Hegemony or Survival.txt	L	Chomsky, Noam	Noam	Chomsky	Noam Chomsky
+L-Church, Forrest -The American Creed.txt	L	Church, Forrest	Forrest	Church	Forrest Church
+L-Claiborne, Shane-The Irresistible Revolution.txt	L	Claiborne, Shane	Shane	Claiborne	Shane Claiborne
+L-Clinton, Hillary-In Her Own Words.txt	L	Clinton, Hillary	Hillary	Clinton	Hillary Clinton
+L-Colmes, Alan-Thank the Liberals.txt	L	Colmes, Alan	Alan	Colmes	Alan Colmes
+L-Cuomo, Mario_Reason to Believe.txt	L	Cuomo, Mario	Mario	Cuomo	Mario Cuomo
+L-Deggans, Eric-Race-Baiter.txt	L	Deggans, Eric	Eric	Deggans	Eric Deggans
+L-Dionne, E.J-Our Divided Political Heart.txt	L	Dionne, E.J	EJ	Dionne	EJ Dionne
+L-Dorrien, Gary-The Obama Question.txt	L	Dorrien, Gary	Gary	Dorrien	Gary Dorrien
+L-Ehrenreich, Barbara-Bait and Switch.txt	L	Ehrenreich, Barbara	Barbara	Ehrenreich	Barbara Ehrenreich
+L-Ellison, Keith-My Country, 'Tis of Thee.txt	L	Ellison, Keith	Keith	Ellison	Keith Ellison
+L-Faludi, Susan-Backlash.txt	L	Faludi, Susan	Susan	Faludi	Susan Faludi
+L-Frank, Thomas-Listen, Liberal.txt	L	Frank, Thomas	Thomas	Frank	Thomas Frank
+L-Galbraith, James-The Predator State.txt	L	Galbraith, James	James	Galbraith	James Galbraith
+L-Gillibrand, Kirsten_Off the Sidelines.txt	L	Gillibrand, Kirsten	Kirsten	Gillibrand	Kirsten Gillibrand
+L-Giroux, Henry_America at War with Itself.txt	L	Giroux, Henry	Henry	Giroux	Henry Giroux
+L-Goodman, Amy_Democracy Now.txt	L	Goodman, Amy	Amy	Goodman	Amy Goodman
+L-Greenwald, Glenn-Great American Hypocrites.txt	L	Greenwald, Glenn	Glenn	Greenwald	Glenn Greenwald
+L-Hart, Gary_The Republic of Conscience.txt	L	Hart, Gary	Gary	Hart	Gary Hart
+L-Hartmann, Thom-The Thom Hartmann Reader.txt	L	Hartmann, Thom	Thom	Hartmann	Thom Hartmann
+L-Harvey, David_A Brief History of Neoliberalism.txt	L	Harvey, David	David	Harvey	David Harvey
+L-Hayes, Christopher-Twilight of the Elites.txt	L	Hayes, Christopher	Christopher	Hayes	Christopher Hayes
+L-Hedges, Chris-The World As It Is_ Myth of Human Progress.txt	L	Hedges, Chris	Chris	Hedges	Chris Hedges
+L-Hightower, Jim-Nothing in the Middle of the Road.txt	L	Hightower, Jim	Jim	Hightower	Jim Hightower
+L-Holland, Joshua-Fifteen Biggest Lies about the Economy.txt	L	Holland, Joshua	Joshua	Holland	Joshua Holland
+L-Jacoby, Susan-The Age of American Unreason.txt	L	Jacoby, Susan	Susan	Jacoby	Susan Jacoby
+L-Johnston, David C., ed_Divided.txt	L	Johnston, David C., ed	David C	Johnston	David C Johnston
+L-Jones, Van-Rebuild the Dream.txt	L	Jones, Van	Van	Jonese	Van Jonese
+L-Kinsella, Warren-Fight the Right.txt	L	Kinsella, Warren	Warren	Kinsella	Warren Kinsella
+L-Klein, Naomi_No Logo.txt	L	Klein, Naomi	Naomi	Klein	Naomi Klein
+L-Krugman, Paul-Conscience of a Liberal.txt	L	Krugman, Paul	Paul	Krugman	Paul Krugman
+L-Kunkel, Benjamin_Utopia or Bust.txt	L	Kunkel, Benjamin	Benjamin	Kunkel	Benjamin Kunkel
+L-Lopez, Ian Haney-Dog Whistle Politics.txt	L	Lopez, Ian Haney	Ian Haney	Lopez	Ian Haney Lopez
+L-McGovern, George_The Essential America.txt	L	McGovern, George	George	McGovern	George McGovern
+L-Meyer, Robin-Why the Christian Right Is Wrong.txt	L	Meyer, Robin	Robin	Meyer	Robin Meyer
+L-Nader, Ralph-The Seventeen Solutions.txt	L	Nader, Ralph	Ralph	Nader	Ralph Nader
+L-Neiwert, David-Over the Cliff.txt	L	Neiwert, David	David	Neiwert	David Neiwert
+L-Obama, Barack-Change We Can Believe In.txt	L	Obama, Barack	Barack	Obama	Barack Obama
+L-Olbermann, Keith-Pitchforks and Torches.txt	L	Olbermann, Keith	Keith	Olbermann	Keith Olbermann
+L-Ratigan, Dylan-Greedy Bastards.txt	L	Ratigan, Dylan	Dylan	Ratigan	Dylan Ratigan
+L-Reich, Robert-Beyond Outrage.txt	L	Reich, Robert	Robert	Reich	Robert Reich
+L-Robinson, Eugene-Disintegration.txt	L	Robinson, Eugene	Eugene	Robinson	Eugene Robinson
+L-Sanders, Bernie_Our Revolution.txt	L	Sanders, Bernie	Bernie	Sanders	Bernie Sanders
+L-Savage, Dan-Skipping Towards Gomorrah.txt	L	Savage, Dan	Dan	Savage	Dan Savage
+L-Schultz, Ed-Killer Politics.txt	L	Schultz, Ed	Ed	Schultz	Ed Schultz
+L-Shipler, David_Rights at Risk .txt	L	Shipler, David	David	Shipler	David Shipler
+L-Smith, Hedrick-Who Stole the American Dream.txt	L	Smith, Hedrick	Hedrick	Smith	Hedrick Smith
+L-Smucker, Jonathan_Roadmap for Radicals.txt	L	Smucker, Jonathan	Jonathan	Smucker	Jonathan Smucker
+L-Steinem, Gloria-Outrageous Acts and Everyday Rebellions.txt	L	Steinem, Gloria	Gloria	Steinem	Gloria Steinem
+L-Stiglitz, Joseph E-The Price of Inequality.txt	L	Stiglitz, Joseph E	Joseph E	Stiglitz	Joseph E Stiglitz
+L-Strauss, David A-The Living Constitution.txt	L	Strauss, David A	David A	Strauss	David A Strauss
+L-Taibbi, Matt-The Divide_ American Injustice.txt	L	Taibbi, Matt	Matt	Taibbi	Matt Taibbi
+L-Wallis, Jim_America's Original Sin.txt	L	Wallis, Jim	Jim	Wallis	Jim Wallis
+L-Warren, Elizabeth-A Fighting Chance.txt	L	Warren, Elizabeth	Elizabeth	Warren	Elizabeth Warren
+L-Webb, Jim-A Time to Fight.txt	L	Webb, Jim	Jim	Webb	Jim Webb
+L-Wellstone, Paul-The Conscience of a Liberal.txt	L	Wellstone, Paul	Paul	Wellstone	Paul Wellstone
+L-West, Cornel-Race Matters.txt	L	West, Cornel	Cornel	West	Cornel West
+L-Williams, Juan_We the People.txt	L	Williams, Juan	Juan	Williams	Juan Williams
+L-Wise, Tim-Colorblind.txt	L	Wise, Tim	Tim	Wise	Tim Wise
+L-Wolff, Richard D-Democracy at Work.txt	L	Wolff, Richard D	Richard D	Wolff	Richard D Wolff
+N-Chafee, Lincoln-Against the Tide.txt	N	Chafee, Lincoln	Lincoln	Chafee	Lincoln Chafee
+N-Crist, Charlie-The Party's Over.txt	N	Crist, Charlie	Charlie	Crist	Charlie Crist
+N-Michaels, Walter Benn_The Trouble with Diversity.txt	N	Michaels, Walter Benn	Walter Benn	Michaels	Walter Benn Michaels
+N-Snowe, Olympia-Fighting for Common Ground.txt	N	Snowe, Olympia	Olympia	Snowe	Olympia Snowe
+N-Ventura, Jesse-Don't Start the Revolution Without Me.txt	N	Ventura, Jesse	Jesse	Ventura	Jesse Ventura
+N-Wheelan, Charles-The Centrist Manifesto.txt	N	Wheelan, Charles	Charles	Wheelan	Charles Wheelan
+N-Whitman, Christine T-It's My Party Too.txt	N	Whitman, Christine T	Christine T	Whitman	Christine T Whitman
+R-Abbott, Greg_Broken But Unbowed.txt	R	Abbott, Greg	Greg	Abbott	Greg Abbott
+R-Adams, Nick_Retaking America.txt	R	Adams, Nick	Nick	Adams	Nick Adams
+R-Arpaio, Sheriff Joe-Joe's Law.txt	R	Arpaio, Sheriff Joe	Joe	Arpaio	Joe Arpaio
+R-Bachmann, Michele-Core of Conviction.txt	R	Bachmann, Michele	Michele	Bachmann	Michele Bachmann
+R-Beck, Glenn-Arguing with Idiots.txt	R	Beck, Glenn	Glenn	Beck	Glenn Beck
+R-Bennett, William_America the Strong.txt	R	Bennett, William	William	Bennett	William Bennett
+R-Blackwell, Ken-Resurgent.txt	R	Blackwell, Ken	Ken	Blackwell	Ken Blackwell
+R-Boaz, David_The Libertarian Mind.txt	R	Boaz, David	David	Boaz	David Boaz
+R-Bolling, Eric_Wake Up America.txt	R	Bolling, Eric	Eric	Bolling	Eric Bolling
+R-Boortz, Neal-Somebody's Gotta Say It.txt	R	Boortz, Neal	Neal	Boortz	Neal Boortz
+R-Borelli, Deneen-Blacklash.txt	R	Borelli, Deneen	Deneen	Borelli	Deneen Borelli
+R-Bork, Robert-Slouching Towards Gomorrah.txt	R	Bork, Robert	Robert	Bork	Robert Bork
+R-Boyack, Conner-Latter-day Liberty.txt	R	Boyack, Conner	Conner	Boyack	Conner Boyack
+R-Breitbart, Andrew-Righteous Indignation.txt	R	Breitbart, Andrew	Andrew	Breitbart	Andrew Breitbart
+R-Brewer, Jan-Scorpions for Breakfast.txt	R	Brewer, Jan	Jan	Brewer	Jan Brewer
+R-Brooks, Arthur C_The Conservative Heart.txt	R	Brooks, Arthur	Arthur	Brooks	Arthur Brooks
+R-Buchanan, Pat-State of Emergency.txt	R	Buchanan, Pat	Pat	Buchanan	Pat Buchanan
+R-Cantor, Eric-Young Guns_1.txt	R	Cantor, Eric	Eric	Cantor	Eric Cantor
+R-Carson, Ben-America the Beautiful.txt	R	Carson, Ben	Ben	Carson	Ben Carson
+R-Cheney, Dick_Exceptional.txt	R	Cheney, Dick	Dick	Cheney	Dick Cheney
+R-Coulter_Adios, America.txt	R	Coulter, Ann	Ann	Coulter	Ann Coulter
+R-Crowley, Monica-What the (Bleep) Just Happened.txt	R	Crowley, Monica	Monica	Crowley	Monica Crowley
+R-Cruz, Ted_A Time for Truth.txt	R	Cruz, Ted	Ted	Cruz	Ted Cruz
+R-Daniels, Mitch-Keeping the Republic.txt	R	Daniels, Mitch	Mitch	Daniels	Mitch Daniels
+R-Day, Vox_Cuckservative.txt	R	Day, Vox	Vox	Day	Vox Day
+R-Deace, Steve-Rules for Patriots.txt	R	Deace, Steve	Steve	Deace	Steve Deace
+R-DeMint, Jim-Falling in Love with America Again.txt	R	DeMint, Jim	Jim	DeMint	Jim DeMint
+R-Dobbs, Lou-Independents Day.txt	R	Dobbs, Lou	Lou	Dobbs	Lou Dobbs
+R-Dreher, Rod_Crunchy Cons.txt	R	Dreher, Rod	Rod	Dreher	Rod Dreher
+R-D'Souza, Dinesh_America-Imagine a World without Her.txt	R	D'Souza, Dinesh	Dinesh	D'Souza	Dinesh D'Souza
+R-Eberstadt, Nicholas-A Nation of Takers .txt	R	Eberstadt, Nicholas	Nicholas	Eberstadt	Nicholas Eberstadt
+R-Fiorazo, David-ERADICATE-Blotting Out God in America.txt	R	Fiorazo, David	David	Fiorazo	David Fiorazo
+R-Fiorina, Carly_Rising to the Challenge.txt	R	Fiorina, Carly	Carly	Fiorina	Carly Fiorina
+R-Forbes, Steve-Freedom Manifesto.txt	R	Forbes, Steve	Steve	Forbes	Steve Forbes
+R-Freedman, Adam-The Naked Constitution.txt	R	Freedman, Adam	Adam	Freedman	Adam Freedman
+R-Frum, David-Comeback_ Conservatism That Can Win Again.txt	R	Frum, David	David	Frum	David Frum
+R-Gaffney, Frank_See No Sharia.txt	R	Gaffney, Frank	Frank	Gaffney	Frank Gaffney
+R-Gerson, Michael-Heroic Conservatism.txt	R	Gerson, Michael	Michael	Gerson	Michael Gerson
+R-Gilder, George-Wealth and Poverty.txt	R	Gilder, George	George	Gilder	George Gilder
+R-Gingrich, Newt-A Nation Like No Other.txt	R	Gingrich, Newt	Newt	Gingrich	Newt Gingrich
+R-Goldberg, Jonah-Liberal Fascism.txt	R	Goldberg, Jonah	Jonah	Goldberg	Jonah Goldberg
+R-Gutfeld, Greg-Not Cool-The Hipster Elite.txt	R	Gutfeld, Greg	Greg	Gutfeld	Greg Gutfeld
+R-Hannity, Sean-Conservative Victory.txt	R	Hannity, Sean	Sean	Hannity	Sean Hannity
+R-Harsanyi, David-The People Have Spoken and They Are Wrong.txt	R	Harsanyi, David	David	Harsanyi	David Harsanyi
+R-Hewitt, Hugh_The Fourth Way.txt	R	Hewitt, Hugh	Hugh	Hewitt	Hugh Hewitt
+R-Hohmann, Leo_Stealth Invasion.txt	R	Hohmann, Leo	Leo	Hohmann	Leo Hohmann
+R-Hood, Gregory_Waking Up from the American Dream.txt	R	Hood, Gregory	Gregory	Hood	Gregory Hood
+R-Horowitz, David-Black Skin Privilege.txt	R	Horowitz, David	David	Horowitz	David Horowitz
+R-Huckabee, Mike-A Simple Government.txt	R	Huckabee, Mike	Mike	Huckabee	Mike Huckabee
+R-Ingraham, Laura-Power to the People.txt	R	Ingraham, Laura	Laura	Ingraham	Laura Ingraham
+R-Jackson, Gregg-We Won't Get Fooled Again.txt	R	Jackson, Gregg	Gregg	Jackson	Gregg Jackson
+R-Kasich, John_Stand for Something.txt	R	Kasich, John	John	Kasich	John Kasich
+R-Kauffman, Bill_Ain't My America.txt	R	Kauffman, Bill	Bill	Kauffman	Bill Kauffman
+R-Kibbe, Matt-Don't Hurt People and Don't Take Their Stuff.txt	R	Kibbe, Matt	Matt	Kibbe	Matt Kibbe
+R-Klein, Aaron-Fool Me Twice.txt	R	Klein, Aaron	Aaron	Klein	Aaron Klein
+R-Krauthammer, Charles_Things That Matter.txt	R	Krauthammer, Charles	Charles	Krauthammer	Charles Krauthammer
+R- Kristol, Irving-The Neoconservative Persuasion.txt	R	Kristol, Irving	Irving	Kristol	Irving Kristol
+R-Kupelian, David-How Evil Works.txt	R	Kupelian, David	David	Kupelian	David Kupelian
+R-Lee, Mike_Our Lost Constitution.txt	R	Lee, Mike	Mike	Lee	Mike Lee
+R-Levin, Mark-Ameritopia.txt	R	Levin, Mark	Mark	Levin	Mark Levin
+R-Limbaugh, David-The Great Destroyer.txt	R	Limbaugh, David	David	Limbaugh	David Limbaugh
+R-Loesch, Dana_Flyover Nation.txt	R	Loesch, Dana	Dana	Loesch	Dana Loesch
+R-MacKinnon, Douglas_The Secessionist States of America.txt	R	MacKinnon, Douglas	Douglas	MacKinnon	Douglas MacKinnon
+R-Marsden, George-The Twilight of the American Enlightenment.txt	R	Marsden, George	George	Marsden	George Marsden
+R-McCain, Meghan-Dirty Sexy Politics.txt	R	McCain, Meghan	Meghan	McCain	Meghan McCain
+R-McCarthy, Kevin-Young Guns_2.txt	R	McCarthy, Kevin	Kevin	McCarthy	Kevin McCarthy
+R-Medved, Michael-The 10 Big Lies About America.txt	R	Medved, Michael	Michael	Medved	Michael Medved
+R-Murray, Charles-American Exceptionalism.txt	R	Murray, Charles	Charles	Murray	Charles Murray
+R-Napolitano, Andrew-A Nation of Sheep.txt	R	Napolitano, Andrew	Andrew	Napolitano	Andrew Napolitano
+R-Norris, Chuck-Black Belt Patriotism.txt	R	Norris, Chuck	Chuck	Norris	Chuck Norris
+R-Nugent, Ted-Ted, White and Blue.txt	R	Nugent, Ted	Ted	Nugent	Ted Nugent
+R-O'Reilly, Bill-Culture Warrior.txt	R	O'Reilly, Bill	Bill	O'Reilly	Bill O'Reilly
+R-Owens, Burgess_Liberalism.txt	R	Owens, Burgess	Burgess	Owens	Burgess Owens
+R-Palin, Sarah-America by Heart.txt	R	Palin, Sarah	Sarah	Palin	Sarah Palin
+R-Parker, Star-Uncle Sam's Plantation.txt	R	Parker, Star	Star	Parker	Star Parker
+R-Paul, Rand-Government Bullies.txt	R	Paul, Rand	Rand	Paul	Rand Paul
+R-Paul, Ron-The Revolution_ A Manifesto.txt	R	Paul, Ron	Ron	Paul	Ron Paul
+R-Pavlich, Katie_Assault and Flattery.txt	R	Pavlich, Katie	Katie	Pavlich	Katie Pavlich
+R-Perry, Rick-Fed Up.txt	R	Perry, Rick	Rick	Perry	Rick Perry
+R-Powers, Kirsten_The Silencing.txt	R	Powers, Kirsten	Kirsten	Powers	Kirsten Powers
+R-Prager, Dennis-Still the Best Hope.txt	R	Prager, Dennis	Dennis	Prager	Dennis Prager
+R-Publius, John-Black Racism, White Victims.txt	R	Publius, John	John	Publius	John Publius
+R-Reed, Ralph-Awakening.txt	R	Reed, Ralph	Ralph	Reed	Ralph Reed
+R-Richards, Jay, Indivisible-Restoring Faith, Family & Freedom.txt	R	Richards, Jay, Indivisible	Jay	Richards	Jay Richards
+R-Romney, Mitt-No Apology.txt	R	Romney, Mitt	Mitt	Romney	Mitt Romney
+R-Root, Wayne Allyn-Angry White Male.txt	R	Root, Wayne Allyn	Wayne Allyn	Root	Wayne Allyn Root
+R-Roy, Avik-How Medicaid Fails the Poor.txt	R	Roy, Avik	Avik	Roy	Avik Roy
+R-Rubio, Marco_American Dreams.txt	R	Rubio, Marco	Marco	Rubio	Marco Rubio
+R-Ryan, Paul_The Way Forward.txt	R	Ryan, Paul	Paul	Ryan	Paul Ryan
+R-Santorum, Rick-Blue Collar Conservatives.txt	R	Santorum, Rick	Rick	Santorum	Rick Santorum
+R-Savage, Michael_Government Zero.txt	R	Savage, Michael	Michael	Savage	Michael Savage
+R-Sayet, Evan-KinderGarden Of Eden.txt	R	Sayet, Evan	Evan	Sayet	Evan Sayet
+R-Scarborough, Joe-The Last Best Hope.txt	R	Scarborough, Joe	Joe	Scarborough	Joe Scarborough
+R-Schlafly, Phyllis_The Conservative Case for Trump.txt	R	Schlafly, Phyllis	Phyllis	Schlafly	Phyllis Schlafly
+R-Schulz, Nick-Home Economics.txt	R	Schulz, Nick	Nick	Schulz	Nick Schulz
+R-Schwartz, Peter_In Defense of Selfishness.txt	R	Schwartz, Peter	Peter	Schwartz	Peter Schwartz
+R-Scruton, Roger_How to Be a Conservative.txt	R	Scruton, Roger	Roger	Scruton	Roger Scruton
+R-Shapiro, Ben-Bullies.txt	R	Shapiro, Ben	Ben	Shapiro	Ben Shapiro
+R-Siegel, Fred-The Revolt Against the Masses.txt	R	Siegel, Fred	Fred	Siegel	Fred Siegel
+R-Smerconish, Michael-Muzzled.txt	R	Smerconish, Michael	Michael	Smerconish	Michael Smerconish
+R-Southern, Lauren_Barbarians.txt	R	Southern, Lauren	Lauren	Southern	Lauren Southern
+R-Sowell, Thomas-Black Rednecks & White Liberals.txt	R	Sowell, Thomas	Thomas	Sowell	Thomas Sowell
+R-Starnes, Todd_Deplorables Guide.txt	R	Starnes, Todd	Todd	Starnes	Todd Starnes
+R-Steele, Shelby-White Guilt.txt	R	Steele, Shelby	Shelby	Steele	Shelby Steele
+R-Steyn, Mark-After America.txt	R	Steyn, Mark	Mark	Steyn	Mark Steyn
+R-Stossel, John-No, They Can't.txt	R	Stossel, John	John	Stossel	John Stossel
+R-Sullivan, Andrew-The Conservative Soul.txt	R	Sullivan, Andrew	Andrew	Sullivan	Andrew Sullivan
+R-Thomas, Cal-What Works_Common Sense Solutions.txt	R	Thomas, Cal	Cal	Thomas	Cal Thomas
+R-Trump, Donald_Crippled America.txt	R	Trump, Donald	Donald	Trump	Donald Trump
+R-Vadum, Matthew-Government Unions.txt	R	Vadum, Matthew	Matthew	Vadum	Matthew Vadum
+R-Viguerie, Richard-Takeover.txt	R	Viguerie, Richard	Richard	Viguerie	Richard Viguerie
+R-Walker, Scott-Unintimidated.txt	R	Walker, Scott	Scott	Walker	Scott Walker
+R-Watkins, Don_Equal Is Unfair.txt	R	Watkins, Don	Don	Watkins	Don Watkins
+R-West, Allen-Guardian of the Republic.txt	R	West, Allen	Allen	West	Allen West
+R-Williamson, Kevin-The Dependency Agenda.txt	R	Williamson, Kevin	Kevin	Williamson	Kevin Williamson
